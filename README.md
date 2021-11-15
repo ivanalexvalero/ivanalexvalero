@@ -1,4 +1,7 @@
 ### Hola, mi nombre es Iván Valero!!👋
+## Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_Valero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-alexander-valero/)
+</br>
 ## Skills:
 [![HTML5](https://img.shields.io/badge/HTML-F43059?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/Css-1575F9?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
@@ -11,4 +14,5 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br>
 [![XD](https://img.shields.io/badge/Adobe_XD-1575F9?style=for-the-badge&logo=adobexd&logoColor=white&labelColor=101010)]()
+</br>
 And more...
