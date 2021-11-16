@@ -1,4 +1,4 @@
-### Hola, mi nombre es Iván Valero!!👋
+### Hola, mi nombre es Iván Alexander Valero!!👋
 Soy desarrollador Front-end, manejo de CMS como Wordpress y Prestashop con especialización en eCommerces.
 Actualmente, incursionando en el mundo de las Apps como desarrollador junior para aplicaciones IOS con Swift y SwiftUI.
 Atencion especial en el detalle, muy proactivo y en constante capacitación estudiando nuevas metodologías, aptrones y arquitecturas de diseño.
