@@ -14,7 +14,14 @@
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 </br>
 [![XD](https://img.shields.io/badge/Adobe_XD-1575F9?style=for-the-badge&logo=adobexd&logoColor=white&labelColor=101010)]()
+[![Sketch](https://img.shields.io/badge/Sketch-FFCA28?style=for-the-badge&logo=sketch&logoColor=white&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
+[![adobeillustrator](https://img.shields.io/badge/adobe_illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=101010)]()
+</br>
+[![prestashop](https://img.shields.io/badge/prestashop-C52FED?style=for-the-badge&logo=prestashop&logoColor=white&labelColor=101010)]()
+[![wordpress](https://img.shields.io/badge/wordpress-2F82ED?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 </br>
 And more...
